@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1506/jooq)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1506/jooq)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1506/jooq)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1506/jooq)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1506/jooq)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1506/jooq)
+
 # jOOQ MCP Server
 
 A Model Context Protocol (MCP) server that provides AI models with access to jOOQ documentation. This Spring Boot application uses Spring AI to expose jOOQ documentation as MCP tools, allowing AI systems to query and retrieve information about jOOQ features, SQL examples, and best practices.
